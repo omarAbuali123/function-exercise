@@ -32,7 +32,16 @@
 
 /*4 */
 
-// git add
+// let l= 91247786;
+// let numdash = l.toString();
+// let result ="";
+// function obb(){
+// for (let i = 0; i < numdash.length; i++) {
+//     result += numdash[i] + (i < numdash.length - 1 && parseInt(numdash[i]) % 2 === 0 && parseInt(numdash[i + 1]) % 2 === 0 ? "-" : "");
+// }
+// return console.log(result);
+// }
+// obb();
 
 
 
